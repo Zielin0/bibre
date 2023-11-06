@@ -1,4 +1,4 @@
-# Bible
+# Bibre
 
 A mobile Bible App.
 
